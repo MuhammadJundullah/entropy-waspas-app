@@ -94,7 +94,7 @@ export default function Home() {
     <div className="min-h-screen p-4 md:p-8 bg-white text-black dark:bg-gray-900 dark:text-white transition-all duration-300 flex flex-col items-center justify-center">
       <div className="flex flex-col items-center mb-6">
         <h1 className="text-xl sm:text-2xl font-bold text-center">
-          SPK Reward Karyawan (Entropy + WASPAS)
+          SPK Reward (Entropy + WASPAS)
         </h1>
       </div>
 
